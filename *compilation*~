@@ -1,0 +1,8 @@
+-*- mode: compilation; default-directory: "~/Documentos/TRAB-ALG/src/" -*-
+Compilation started at Wed Dec 11 15:16:35
+
+gcc /home/cicero/Documentos/TRAB-ALG/src//*.c -o /home/cicero/Documentos/TRAB-ALG/src//*compilation* -I/home/cicero/Documentos/TRAB-ALG/src//includes -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+/usr/bin/ld: não foi possível usar o arquivo executável "/home/cicero/Documentos/TRAB-ALG/src//*compilation*~" como entrada para um vínculo
+collect2: error: ld returned 1 exit status
+
+Compilation exited abnormally with code 1 at Wed Dec 11 15:16:35, duration 0.22 s

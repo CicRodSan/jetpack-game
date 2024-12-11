@@ -1,0 +1,9 @@
+<ocumentos/TRAB-ALG/src/
+			..
+			includes/
+				 *NeoTree*
+				background.c
+				game.c
+				main
+				main.c
+				menu.c
